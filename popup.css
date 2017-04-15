@@ -1,0 +1,46 @@
+a:link, a:visited {
+    background-color: #3b5998;
+    color: white;
+    padding: 25px 5px;
+    height: 40px;
+    width: 540px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size:12px;
+}
+
+a:hover, a:active {
+    background-color: #8b9dc3;
+    height: 40px;
+    width: 540px;
+}
+
+.tabsList {
+    font-size: 110%;
+    text-align: left;
+    color: #000;
+}
+
+#box{
+    min-width:540px;
+    min-height:35px;
+    margin-left:10px;
+    font-size:24px;
+}
+
+
+body{
+    background-color: #3b5998;
+    min-width:540px;
+    min-height:35px;
+}
+
+ul {
+    padding: 10px;
+    list-style-type: none;
+}
+
+.element{
+    word-break:break-all;
+}
